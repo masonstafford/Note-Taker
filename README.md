@@ -29,8 +29,11 @@ npm i
 
 ## Application Photos
 
+### Home page:
 ![Screen Shot 2020-03-04 at 10 08 16 PM](https://user-images.githubusercontent.com/46834613/75944158-f34ef500-5e64-11ea-983a-048c9c5f6890.png)
+### Notes page:
 ![Screen Shot 2020-03-04 at 10 08 44 PM](https://user-images.githubusercontent.com/46834613/75944159-f4802200-5e64-11ea-877f-1333de7e5e3f.png)
+### Adding a note
 ![Screen Shot 2020-03-04 at 10 08 51 PM](https://user-images.githubusercontent.com/46834613/75944160-f518b880-5e64-11ea-8278-f50217436231.png)
 
 ## Questions
